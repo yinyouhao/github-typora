@@ -69,19 +69,13 @@ https://blog.csdn.net/Sophia_11/article/details/95051346#%E3%80%903%E3%80%91%E4%
 
 ![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE6.1.jpg)
 
-![图6.1](assets/图6.1.jpg)
-
  2.复制上方链接
 
 ![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE6.2.jpg)
 
-![图6.2](assets/图6.2.jpg)
-
  3.点击README.MD文件，点击右上方的修改图标
 
 ![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE6.3.jpg)
-
-![图6.3](assets/图6.3.jpg)
 
  4.输入：
 
