@@ -63,7 +63,35 @@ git push -u origin master
 
 https://blog.csdn.net/Sophia_11/article/details/95051346#%E3%80%903%E3%80%91%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87
 
+## 6.利用readme.md文件生成目录
 
+ 1.进入刚刚生成的仓库中，点击题目前方的链接图标
+
+![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE6.1.jpg)
+
+![图6.1](assets/图6.1.jpg)
+
+ 2.复制上方链接
+
+![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE6.2.jpg)
+
+![图6.2](assets/图6.2.jpg)
+
+ 3.点击README.MD文件，点击右上方的修改图标
+
+![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE6.3.jpg)
+
+![图6.3](assets/图6.3.jpg)
+
+ 4.输入：
+
+```
+//上下各留出来一行
+[目录名称](刚刚复制的链接)
+//上下各留出来一行
+```
+
+5.拉到最后点击commit按钮
 
 
 
