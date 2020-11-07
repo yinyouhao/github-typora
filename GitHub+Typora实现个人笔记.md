@@ -59,6 +59,7 @@ git push -u origin master
 9.刷新Github，即可查看新更新的文件
 
 ## 5.利用GitHub建立图床
+此部分可以参考一下链接
 
 https://blog.csdn.net/Sophia_11/article/details/95051346#%E3%80%903%E3%80%91%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87
 
