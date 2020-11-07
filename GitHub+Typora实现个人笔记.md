@@ -54,7 +54,7 @@ git push -u origin master
 
 查看分支名称的方法：
 
-（添加图4.2）
+![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE4.2.jpg)
 
 9.刷新Github，即可查看新更新的文件
 
