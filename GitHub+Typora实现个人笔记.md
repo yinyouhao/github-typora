@@ -16,7 +16,7 @@
 
 ​	1）获取SSH
 
-（图4.1）
+![](https://github.com/yinyouhao/github-typora/blob/main/images/%E5%9B%BE%E7%89%874.1.jpg)
 
 ​	2）在刚在打开的Git Bash窗口中输入：
 
