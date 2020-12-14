@@ -64,6 +64,28 @@ git push -u origin master
 此部分可以参考一下链接
 
 https://blog.csdn.net/Sophia_11/article/details/95051346#%E3%80%903%E3%80%91%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87
+## 利用github建立图床
+
+### 1.新建一个仓库
+
+![img](https://img-blog.csdnimg.cn/20190708121312846.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NvcGhpYV8xMQ==,size_16,color_FFFFFF,t_70)
+
+### 2.建立文件夹
+
+1. 进入仓库里，点击“Create new file”按钮
+   ![img](https://img-blog.csdnimg.cn/20190708122123286.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NvcGhpYV8xMQ==,size_16,color_FFFFFF,t_70)
+
+2. 在空的方框里填上“images/”，建立一个存储图片的文件夹：images。
+
+   ![img](https://img-blog.csdnimg.cn/20190708122337987.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NvcGhpYV8xMQ==,size_16,color_FFFFFF,t_70)
+
+3. GitHub中，必须建立文件才能完成建立，这里我们随便建立一个文件，稍后可以将其删除。这里我们建立的是Temp文件，即临时文件，点击下边的“Commit new file”建立新文件。
+
+![img](https://img-blog.csdnimg.cn/20190708122650750.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NvcGhpYV8xMQ==,size_16,color_FFFFFF,t_70)
+
+![img](https://img-blog.csdnimg.cn/20190708122823678.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NvcGhpYV8xMQ==,size_16,color_FFFFFF,t_70)
+
+4. （3）GitHub中md文件，编写图片的格式为：![]\(图片地址)。
 
 ## 6.利用readme.md文件生成目录
 
